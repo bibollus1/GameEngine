@@ -6,7 +6,7 @@ namespace GameEngine
 
 	void Application::Run()
 	{
-		std::cout << "Application running" << std::endl;
+		//std::cout << "Application running" << std::endl;
 		while (true);
 	}
 
